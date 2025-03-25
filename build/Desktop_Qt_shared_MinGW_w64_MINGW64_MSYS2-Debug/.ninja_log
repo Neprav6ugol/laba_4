@@ -1,0 +1,15 @@
+# ninja log v6
+25	2281	7645540500441156	ar_444_autogen/timestamp	62797654f39be91b
+25	2281	7645540500441156	ar_444_autogen/mocs_compilation.cpp	62797654f39be91b
+25	2281	7645540500441156	C:/Users/Jokir/Documents/ar_444/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_444_autogen/timestamp	62797654f39be91b
+25	2281	7645540500441156	C:/Users/Jokir/Documents/ar_444/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_444_autogen/mocs_compilation.cpp	62797654f39be91b
+2313	2470	7645540502721583	CMakeFiles/ar_444.dir/mainwindow.cpp.obj	1ae8d4bddafc9bd7
+2297	2502	7645540502551750	CMakeFiles/ar_444.dir/ar_444_autogen/mocs_compilation.cpp.obj	f1a5243cb6c826c
+2305	12433	7645540502631567	CMakeFiles/ar_444.dir/main.cpp.obj	465d49592cf896e1
+12434	13143	7645540603926479	ar_444.exe	3ff64072f814aab4
+76	1334	7645758811504936	ar_444_autogen/timestamp	62797654f39be91b
+76	1334	7645758811504936	ar_444_autogen/mocs_compilation.cpp	62797654f39be91b
+76	1334	7645758811504936	C:/Users/Jokir/Documents/ar_444/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_444_autogen/timestamp	62797654f39be91b
+76	1334	7645758811504936	C:/Users/Jokir/Documents/ar_444/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_444_autogen/mocs_compilation.cpp	62797654f39be91b
+1336	7170	7645758824082120	CMakeFiles/ar_444.dir/main.cpp.obj	465d49592cf896e1
+7170	7947	7645758882440607	ar_444.exe	3ff64072f814aab4
